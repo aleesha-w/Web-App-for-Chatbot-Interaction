@@ -22,3 +22,20 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. Clone the repository
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
+   
+2. Navigate to the project directory
+   ```bash
+   cd your-repo-name
+
+3.Install the required dependencies
+   ```bash
+   npm install
+
+### Running the Application
+1. Navigate to the server folder
+   ```bash
+   cd server
+2. Start the server
+   ```bash
+   node server.js
+Open your browser and go to **http://localhost:5000** to see the application.
