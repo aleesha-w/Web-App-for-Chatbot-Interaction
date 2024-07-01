@@ -1,0 +1,88 @@
+np ;] __eou__ have you checked that error file ? __eou__
+yes rebooted . i can get inside the text shell . __eou__
+ca n't say without knowing more specifics . __eou__
+those are not installed by default . they are available though __eou__
+the problem is only with the keyboard not with the mouse , is n't it ? __eou__
+i fail to see where you confidence was restored . the entire keyring should not be available to any process running with user permissions . __eou__
+how can i check whether they installed or not __eou__
+hm , odd __eou__
+yikes __eou__
+it did n't work out for making a new user as well :-lrb- __eou__ now i 'm using gnomeclassic through recovery , as i can see , when you move the windows it becomes slow , seems that graphic is not well set __eou__
+i do n't know . how do i check ? __eou__
+lol __eou__ to be honest i have never gotten wpa to work for me , so if you figure it out please let me know __eou__
+i 've redirected the stderr output to a variable but now echo $ var | grep foo does n't work again ... ! __eou__
+dr_willis i know i ; m just lazy __eou__ > just want it to work a few months :-rrb- __eou__
+great :-rrb- __eou__ make sure that those parameters are also set in / boot/grub/menu . lst before you reboot __eou__
+the `` ntfs '' module from the kernel * will * mess up your filesystem , yes . __eou__
+https://help.ubuntu.com/community/macbook __eou__
+thanks . i 'm at the link now . __eou__
+i think its rsyn but wouldnt count on it __eou__
+it 's pretty much done , just a few more configurations for fine-tuning __eou__ https://help.ubuntu.com/12.04/serverguide/index.html __eou__
+ah , sorry :p __eou__
+what 's the cpu temperature like ? __eou__
+for energy saving reason , i am hibernating my desktop when i 'm not at home . __eou__
+was n't obvious . i looked around last night __eou__
+you need ubuntu drivers for it :p __eou__ what does lsusb in terminal give you ? __eou__
+yeah i want to script it , l3top please give me that example __eou__
+somehow the install process was interrupted . that can have multiple reasons ... a broken package for example or other things . __eou__
+think so ... __eou__ / wols _ : http://rafb.net/p/2cwhso17.html __eou__
+not sure what you 're asking , but top will show processes run with & __eou__ of course , they may or may not have high enough cpu usage -lrb- or whatever you 're sorting by -rrb- to appear __eou__
+i 've gotten it to load minecraft without crashing but as soon as it tries to show the splash screen it restart 's unity __eou__ no , java __eou__
+oof . virtual machine on an atom . good luck . ;-\ __eou__
+so when you are `` printing '' them from document viewer , it is to where ? __eou__
+where in / dev is my hdd ? __eou__
+probably because other users with the same hardware encountered serious issues . __eou__
+i use http://www.heyu.org/ for software __eou__ i use a firecracker for hardware __eou__
+what does hald -- version return ? __eou__
+you do n't have to __eou__ please , you 're on a desktop and want to connect to the server is that it ? __eou__
+as in would you recommend this path ? __eou__
+i am not sure . i created ubuntu with 100 gb . i realize that i only need about 30-40 gb . would like to send the 70-60 gb back to my windows 8 __eou__
+: seems to be the as what is in multiverse . unfortunately it does n't come with the gstreamer-plugin __eou__
+i think i got it :-rrb- ubottu knows this stuff :d __eou__
+ok , i will move to the #security channel , thanks ... __eou__
+yes . and i already tried fixmbr and it 's still wo n't go away __eou__
+cool thanks ! __eou__
+how do i get around it ? __eou__
+thank you . ill look into that . __eou__
+settings - > keyboard - > shortcuts ? __eou__
+well i think the more details posted here the more some one can get a better idea of the issue ... i cant gurantee that will be me but posting detials is important __eou__ well emerald is a window decorator and compiz a window manager what you want to use is either gtk-window-decorator if on gnome or kde4-window-deorator if on kde __eou__ compiz will not decorate the windows __eou__
+i placed a ziptie set on the monitor frame positioned right next to the progress bar __eou__ it 's been 12 minutes and it has n't moved a bit __eou__
+seems to be . __eou__
+i understand but any idea on how to go about this ? this is an email server and i need to get solution asap . thank you . __eou__ system is running on ibm x226 __eou__
+ive run out of space on my main hd __eou__ no a slave hd __eou__
+okay , gotcha , sorta thinking there might be shortcuts that were different from other things i 'm used to __eou__
+no kidding the password is only 8 digits __eou__
+then you 'll need to upgrade :-rrb- __eou__
+i am running a server off the ramdisk and do not want it to be swapped out because it could cause a major speed reduction __eou__
+graphics unknown . is that bad ? __eou__
+seems they disagree with me ... lol ... let me know how that worked out . __eou__
+auronandace thanks , i 'll try that __eou__
+thanks __eou__
+hm , i see something like `` clock : 400mhz '' but under '' * - cpu '' , let me check another machine . __eou__ the amd/athlon-xp -2500 machine says `` clock : 166mhz '' , does this make any sense to you ? __eou__ the intel machine says 400mhz which looks like its fsb freq . __eou__
+you the 3rd party app ubuntu-tweak to clean your system , it 's not in the repos , you have to download it __eou__
+thx __eou__
+: i want to understand networking , so i need to understand that line ... i have some doubt about dhcp __eou__ : sorry ! but i know all this , but i want to understand meaning of that line __eou__ : have he plug printer in computer __eou__ : service cups start __eou__ : unix 2 -lsb- acc -rsb- stream lyssnar 21280 - / var/run/cups / cups.sock __eou__ : i 'm a newbie ... i just have 6 month experience __eou__ : can you help me to understand service management __eou__ : o k ! __eou__ : where is darksim __eou__
+cool , thanks . __eou__
+on reinstall it 's easier to setup / home in its own partition . makes it easier to do a clean install of the next system . yes to the last question ' __eou__
+thanks . is dpkg for installing things ? __eou__
+turn the screensaver off before hand __eou__ or use a stick to poke the mouse whenever it comes on __eou__
+so , i would have to get the two , use the server to create the vm and the player to run it ? __eou__ workstation is an easier , bundled way to do that i suppose __eou__
+this release is a couple of weeks old with rather a lot of users . i know of no os with ubuntu 's level of response . __eou__
+uhhhh maybe ? __eou__ man xdotool , / sleep __eou__
+yes , that 's one thing that i have learned ; if your willing to spend a little time messin ' with stuff , you can get ubuntu to do just about anything . -lrb- just about . . -rrb- __eou__
+the title bar is still merging with global menu __eou__ it is really annoying because i could not minimize , maximize without touching the gnome panel __eou__
+it is not working ... it just asks me that if i want it ro run asa deamon or not , and about encrypted passwd-s __eou__
+/ lib/modules / ` uname - a ` / kernel/drivers/gpu / drm/i915/i915 . ko __eou__ oh ok __eou__
+yup , i noticed that as well . very annoying ! __eou__
+or replace the hdd __eou__ same same , 2009 vintage . basic photo/video editing , audio mixing and even the rare game now and then . all are running well . __eou__ older lappy ? try lubuntu or xubuntu - both are designed for older , lower spec devices . __eou__ also , ram matters . __eou__
+yeah __eou__ ok __eou__ does it remember the brightness settings ? __eou__
+http://pastebin.com/hrfc6ggx __eou__
+well , i hope there are other audio modules ... lem me see __eou__ hm . you know , i might try to just update my kernel , see if anything comes of that . but otherwise , everything about duplex audio tends to suck . would not recommend it in general . __eou__
+ok __eou__
+i think i remember you , but not the nick though __eou__ you may be able to do an advanced search in uf using the part name of a member __eou__
+i want to go there and remove it __eou__
+drag0nius i try wine '' ... '' & and it gives me an error then crashes . without the & it loads and works , but keeps the terminal too __eou__
+send it to a different workspace so it do n't show up in your panel . __eou__ i usually do that for thunderbird because if i close it , i wo n't get libnotify popup . so i leave it open and i get mail notifcations . __eou__
+its my home __eou__ or cvr any of you know a way so i can access the . private folder to delete data . i dont understand from where i have so mutch space used when i only have like 5 gb of files downloaded -lrb- and the private hs already 70 gb -rrb- __eou__
+i 've got some funky setups with my 3g and wimax cards . __eou__
+
