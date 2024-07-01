@@ -21,11 +21,11 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/aleesha-w/Web-App-for-Chatbot-Interaction.git
    
 2. Navigate to the project directory
    ```bash
-   cd your-repo-name
+   cd Web-App-for-Chatbot-Interaction.git
 
 3.Install the required dependencies
    ```bash
