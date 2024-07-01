@@ -30,7 +30,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 3.Install the required dependencies
    ```bash
    npm install
-
+   ```
 ### Running the Application
 1. Navigate to the server folder
    ```bash
